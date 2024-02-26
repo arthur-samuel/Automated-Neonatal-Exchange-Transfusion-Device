@@ -1,0 +1,49 @@
+the command Genration
+the information for what ever is to be done is inputed  
+
+Power on and power off
+toggle 
+volume
+
+
+the control
+Decision maker of the entire system 
+controls the fail safe 
+the occlusion
+
+occlusion detection
+basically contains algorithms to detect the occlusion
+
+supervisory
+modelling the reference angle of the motor
+
+motor controller
+supplying voltage to the motor for it to work
+
+plant 
+it houses the syringe
+the dc motor and the delivery line.
+
+for the motor the blue side means it is the electrical part 
+while the green side represent the mechanical part
+
+slide
+friction and compliance of the plunger can be non linear and therefore the effect has to calculated.
+
+NB: 
+the occlusion is tlike if there is a clot in any form of the blood or a clotting there will be a reaction to indicate it.
+
+
+1. Compare the motor speed and the delivery line pressure of the motor line
+
+
+Integration and Testing
+
+
+in preparaing the ppt:
+
+first talk about the flaws of the existing models
+
+talk about the testing
+
+and start with the matlab analysis
