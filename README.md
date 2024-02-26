@@ -13,8 +13,6 @@ The hardware of the Automated Neonatal Exchange Transfusion Device is programmed
 3. System Diagrams
 Explore the Diagrams directory for comprehensive schematic representations of the entire device. These diagrams provide an overview of the system architecture, helping to understand the interconnections between different components.
 
-Getting Started
-To set up and test the MATLAB prototype, follow the instructions in the MATLAB Prototype README. For the Arduino hardware programming, refer to the Arduino Programming README.
 
 Contributors
 Ameyaw Samuel Arthur
