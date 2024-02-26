@@ -1,4 +1,5 @@
-"# Automated-Neonatal-Exchange-Transfusion-Device" 
+Automated-Neonatal-Exchange-Transfusion-Device
+
 Overview
 Welcome to the README for the Automated Neonatal Exchange Transfusion Device project. This repository contains the prototype control system developed in MATLAB, the hardware programming using Arduino, and the comprehensive diagramatic representation of the entire system.
 
